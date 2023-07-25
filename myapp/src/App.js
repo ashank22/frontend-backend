@@ -33,7 +33,7 @@ function Api(){
   return(
     <header>
     <div className="div">
-    <h1 className="a1">RANDOM QUOTE<br></br></h1><h1 className="q">{x && x.quote}</h1>
+    <h1 className="a1">RANDOMm QUOTE<br></br></h1><h1 className="q">{x && x.quote}</h1>
     <h1 className="q">By-{x && x.author}</h1>
     <h2 className="a2">Add your quote</h2>
     <div className="a3">
