@@ -5,9 +5,58 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(80, 51, 225, 0.945);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.a1{
+  color: rgb(253, 108, 4);
+  text-align:center;
+  font-size:3rem;
+}
+.q{
+  color: rgb(10, 246, 250);
+  text-align:center;
+  font-size:2.5rem;
+}
+.a2{
+  color:rgb(239, 219, 0);
+  text-align: center;
+  font-size:2rem;
+}
+.a3{
+  color:aliceblue;
+  text-align:center;
+  font-size:1.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#btn{
+  padding:0.5rem 0.6rem 0.5rem 0.6rem;
+  border-radius:1rem;
+  border: none;
+  background-color: rgba(241, 88, 121, 0.763);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.1rem;
+
+  margin-top:1rem;
+}
+#btn:hover{
+  opacity: 0.8;
+}
+#btn:active{
+  background-color: blanchedalmond;
+}
+#hello{
+  display: block;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+.btn1{
+  margin-left: 50%;
+  margin-right: 50%;
 }
